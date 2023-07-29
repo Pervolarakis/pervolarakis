@@ -1,13 +1,6 @@
-### Hi there, I'm Michail 👋
-
 <p>
-I'm a 23-year-old software engineer with a passion for web development, specializing in back end and DevOps. I also enjoy working with front-end frameworks like React and Three.js.
-</br></br>
-During my academic journey, I earned a Bachelor's degree in Software Engineering. Outside of formal education, I actively participate in hacktoberfest each year, contributing to open-source projects and giving back to the developer community.
-</br></br>
-My favorite programming languages are TypeScript and Java, which I use to bring my ideas to life through coding. I love staying productive by working on personal coding projects during my free time.
-</br></br>
-As a lifelong learner, I continuously seek knowledge and self-improvement, exploring online courses and reading books about software engineering to stay up-to-date with the latest trends and advancements.</p>
+Hello! I'm Michail 👋, a 23-year-old software engineer passionate about web development, particularly back-end and DevOps. I love TypeScript and Java, using them to bring ideas to life through coding. Hacktoberfest enthusiast. Lifelong learner. Let's code together!
+</p>
 
 - 🌱 I’m currently learning **Redis**
 
